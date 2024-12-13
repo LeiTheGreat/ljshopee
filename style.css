@@ -1,4 +1,185 @@
-/* <link rel="stylesheet" href="styles.css">
+
+
+ .top{
+    background-color: orangered;
+    height: 130px;
+    display: block;
+
+    }
+
+    .upper-left{
+        color: white;
+        width: 100px;
+        margin-left: 50px;  
+
+    }
+
+    .seller{
+        width: 75px;
+        color: white;
+        font-size: 15px;
+        margin-left: 40px;
+        text-decoration: none;
+        cursor: pointer;
+        font-family: arial;
+    }
+    .start{
+        width: 75px;
+        color: white;
+        font-size: 15px;
+        margin-left: 20px;
+        text-decoration: none;
+        cursor: pointer;
+        font-family: arial;
+
+    }
+    .download{
+        width: 75px;
+        color: white;
+        font-size: 15px;
+        margin-left: 20px;
+        text-decoration: none;
+        cursor: pointer;
+        font-family: arial;
+        
+
+    }
+    .follow{
+        width: 75px;
+        color: white;
+        font-size: 15px;
+        margin-left: 20px;
+        text-decoration: none;
+        cursor: pointer;
+        margin-bottom: 50px;
+        font-family: arial;
+    }
+
+    .menubar-right{
+        width: 75px;
+        color: white;
+        font-size: 15px;
+        margin-left: 500px;
+        text-decoration: none;
+        cursor: pointer;
+        margin-bottom: 50px;
+        font-family: arial;
+    }
+
+    .shopee-logo{
+        object-position: left;
+        width: 150px;
+        display: inline-block;
+        margin-right: 30px;
+        margin-left: 42px;
+    }
+
+    .search {
+        width: 900px;
+        margin-left: 20px;
+        vertical-align: top;
+        margin-top: 15px;
+        height: 30px;
+        display: inline-block;
+    }
+
+    .menubar{
+        margin-bottom: 22px;
+    }
+
+ .upper {
+    margin-top: 30px;
+ }
+    
+ .upper{
+    padding-left: 30px;
+    padding-top: 10px;
+    display:inline-block ;
+
+ }
+
+ .cover{
+    width: 840px;
+    height: 280px;
+    vertical-align: top;
+    display:inline-block ;
+ }
+
+
+ .cover2 {
+    width: 420px;
+    height: 280px;
+ }
+ .logo {
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+        gap: 12%;
+        text-align: center;
+
+        margin-top: 25px;
+        margin-left: 50px; 
+        margin-right: 60px;  
+        background-color: rgb(236, 210, 178);
+        padding: 5px; 
+        flex-wrap: nowrap;
+    }
+
+    .logo1 {
+        font-family: arial;
+        font-size: 12px;  
+         
+        }
+    .desc {
+        margin-top: 3px;
+        text-align: center;
+        
+    }
+
+    .logo11 {
+        width: 50px;
+        height: 50px;
+    }
+    .logo2 {
+        font-family: arial;
+        font-size: 12px;  
+       
+        }
+
+    .logo12 {
+        width: 50px;
+        height: 50px;
+    }
+    .logo3 {
+        font-family: arial;
+        font-size: 12px;   
+        }
+    .logo13 {
+        width: 50px;
+        height: 50px;
+    }
+    .logo4 {
+        font-family: arial;
+        font-size: 12px;  
+        }
+    .logo14 {
+        width: 50px;
+        height: 50px;
+    }
+    .logo5 {
+        font-family: arial;
+        font-size: 12px;   
+        }
+
+    .logo15 {
+        width: 50px;
+        height: 50px;
+    }
+
+    .bottom-pic {
+        margin-top: 25px;
+        margin-left: 50px; 
+    }
 
 
 
